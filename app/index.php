@@ -52,19 +52,10 @@
 
     <div class="container">
 
-      <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'?></h1>
-	<div class="container">
-
-	<div class="starter-template">
+      	<div class="starter-template">
         	<h1>Hallo <?php echo 'OpenShift Techlab'?></h1>
         	<p class="lead">APPUiO Example Dockerfile PHP</p>
-      	</div>
-	
-    	</div>
-        <p class="lead">APPUiO Example Dockerfile PHP</p>
-      </div>
-
+   	</div>
     </div><!-- /.container -->
 
 
